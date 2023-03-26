@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="200" width="1000" src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif" />
+</div>
+
+###
 <h1 align="center">Hi 👋, I'm kinjal Makwana</h1>
 <h3 align="center">A passionate Android & UI Developer</h3>
 
@@ -28,6 +33,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
 </div>
 
+<h3 align="left">Connect With Me:</h3>
+<div align="left">
+  <a href="linkedin.com/in/makwana-kinjal" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+   <a href="https://leetcode.com/kinjal_makwana/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=e28743&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetCode logo"  />
+  </a>
+  
+</div>
+
+###
 ###
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=makwanakinjal&show_icons=true&locale=en&layout=compact" alt="makwanakinjal" /></p>
