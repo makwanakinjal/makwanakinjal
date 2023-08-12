@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Android Backend Development**
 
-- 💬 Ask me about **Kotlin , Android , Volley & Retrofit**
+- 💬 Ask me about **Kotlin , Android , RestAPIS , Firebase**
 
 - 📫 How to reach me **kinjalmakwana8403@gecg28.ac.in**
 
